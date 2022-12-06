@@ -9,9 +9,9 @@ Email: david.praslicka@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 [Online Auction App](https://github.com/Davidpr00/OnlineAuctionApp)
+[Weather App](https://github.com/Davidpr00/WeatherApp)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-
 Hackerrank: https://www.hackerrank.com/davidko12
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
