@@ -8,7 +8,7 @@ Welcome to my page, my name is David Praslička and I'm a fresh alumni of Green 
 Email: david.praslicka@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-[Online Auction App](https://github.com/Davidpr00/OnlineAuctionApp)
+[Online Auction App](https://github.com/Davidpr00/OnlineAuctionApp) <br>
 [Weather App](https://github.com/Davidpr00/WeatherApp)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
